@@ -42,6 +42,4 @@
 ### Socials
 * [LinkedIn](https://www.linkedin.com/in/rafey-afzal-21a618290/)
 
----
 
-This updated version clarifies your academic pursuit and streamlines the information for a cleaner and more engaging presentation on your GitHub profile.
