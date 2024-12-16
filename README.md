@@ -9,7 +9,7 @@
 ### Current Work
 * 📈  Passionate about learning and growth — Coding since **2020**
 * 🚀  Currently building my portfolio website using **React**, **Three.js**, and **GSAP**  
-* 🧠  Exploring new frameworks: **Langchain (Python)**, **GSAP (JavaScript)**, **Three.js (JavaScript)**  
+* 🧠  Exploring new frameworks: **Langchain (Python)**, **GSAP (JavaScript)**, **Three.js (JavaScript)**  
 
 ### Tools & Languages  
 <p>
