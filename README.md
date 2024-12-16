@@ -2,7 +2,7 @@
 
 ### About Me
 * 🌍  Based in Oslo, Norway  
-* 🎓  Pursuing a Bachelor’s in Computer Engineering at Oslo Metropolitan University, graduating in 2025  
+* 🎓  Bachelor of Science in Data Engineering, Oslo Metropolitan University, 2025  
 * 📫  Reach me at: afzalrafey@gmail.com  
 * 🖥️  Portfolio: **Under development**  
 
