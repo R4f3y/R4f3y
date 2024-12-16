@@ -46,7 +46,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R4f3y&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R4f3y&layout=default&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R4f3y&layout=compact&theme=radical)
 
 
 
