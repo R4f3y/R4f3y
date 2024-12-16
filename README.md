@@ -42,4 +42,13 @@
 ### Socials
 * [LinkedIn](https://www.linkedin.com/in/rafey-afzal-21a618290/)
 
+## My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R4f3y&show_icons=true&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=R4f3y&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R4f3y&layout=compact&theme=radical)
+
+
 
