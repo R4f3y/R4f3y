@@ -2,12 +2,12 @@
 
 ### About Me
 * 🌍  Based in Oslo, Norway  
-* 🎓  Pursuing a Bachelor’s in Computer Engineering at Oslo Metropolitan University (OsloMet), graduating in 2025  
+* 🎓  Pursuing a Bachelor’s in Computer Engineering at Oslo Metropolitan University, graduating in 2025  
 * 📫  Reach me at: afzalrafey@gmail.com  
 * 🖥️  Portfolio: **Under development**  
 
 ### Current Work
-* 🤝  Open to collaborating on interesting projects  
+* 📈 Passionate about learning and growth—coding since **2020**
 * 🚀  Currently building my portfolio website using **React**, **Three.js**, and **GSAP**  
 * 🧠  Exploring new frameworks: **Langchain (Python)**, **GSAP (JavaScript)**, **Three.js (JavaScript)**  
 
