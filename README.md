@@ -2,10 +2,11 @@
 
 ### About Me
 * 🌍  Based in Oslo, Norway  
-* 🎓  Bachelor of Science in Data Engineering, Oslo Metropolitan University, 2025  
-* 📫  Reach me at: afzalrafey@gmail.com  
-* 🖥️  Portfolio: **Under development**  
+* 🎓  Bachelor of Science in Data Engineering, Oslo Metropolitan University, 2025
 * 📈  Passionate about learning and growth — Coding since **2020**
+* 📫  Reach me at: afzalrafey@gmail.com  
+<!-- * 🖥️  Portfolio: **Under development** -->
+
 
 
 ### Tools & Languages  
