@@ -1,11 +1,15 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rafey Afzal  
 
 ### About Me
-* 🌍  Based in Oslo, Norway
-* 💼**Fullstack Developer** at **Oslo University Hospital**
-* 🎓  Bachelor of Science in Data Engineering, Oslo Metropolitan University, 2025
-* 📈  Passionate about learning and growth — Coding since **2020**
-* 📫  Reach me at: afzalrafey@gmail.com  
+
+|   |   |
+|---|---|
+| 🌍 | Based in Oslo, Norway |
+| 💼 | **Fullstack Developer** at **Oslo University Hospital** |
+| 🎓 | Bachelor of Science in Data Engineering, Oslo Metropolitan University, 2025 |
+| 📈 | Passionate about learning and growth — Coding since **2020** |
+| 📫 | Reach me at: afzalrafey@gmail.com |
+
 <!-- * 🖥️  Portfolio: **Under development** -->
 
 ## My GitHub Stats
