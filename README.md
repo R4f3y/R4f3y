@@ -17,7 +17,7 @@
 ### Tools & Languages  
 <p>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/2048px-Three.js_Icon.svg.png" width="36" height="36" alt="Three.js" /></a>
+<a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/2048px-Three.js_Icon.svg.png" width="36" height="36" alt="Three.js" /></a>
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://gsap.com" target="_blank" rel="noreferrer"><img src="https://assets.codepen.io/16327/internal/avatars/users/default.png?fit=crop&format=auto&height=256&version=1697554632&width=256" width="36" height="36" alt="GSAP" /></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" width="36" height="36" alt="Spring" /></a>
