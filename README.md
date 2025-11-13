@@ -1,15 +1,13 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rafey Afzal  
 
 ### About Me
-
-|   |   |
-|---|---|
-| 🌍 | Based in Oslo, Norway |
-| 💼 | **Fullstack Developer** at **Oslo University Hospital** |
-| 🎓 | Bachelor of Science in Data Engineering, Oslo Metropolitan University, 2025 |
-| 📈 | Passionate about learning and growth — Coding since **2020** |
-| 📫 | Reach me at: afzalrafey@gmail.com |
-
+<ul>
+  <li><img src="https://twemoji.maxcdn.com/v/latest/svg/1f30d.svg" width="18" height="18" alt=""> &nbsp;Based in Oslo, Norway</li>
+  <li><img src="https://twemoji.maxcdn.com/v/latest/svg/1f4bc.svg" width="18" height="18" alt=""> &nbsp;<b>Fullstack Developer</b> at <b>Oslo University Hospital</b></li>
+  <li><img src="https://twemoji.maxcdn.com/v/latest/svg/1f393.svg" width="18" height="18" alt=""> &nbsp;Bachelor of Science in Data Engineering, Oslo Metropolitan University, 2025</li>
+  <li><img src="https://twemoji.maxcdn.com/v/latest/svg/1f4c8.svg" width="18" height="18" alt=""> &nbsp;Passionate about learning and growth — Coding since <b>2020</b></li>
+  <li><img src="https://twemoji.maxcdn.com/v/latest/svg/1f4e7.svg" width="18" height="18" alt=""> &nbsp;Reach me at: afzalrafey@gmail.com</li>
+</ul>
 <!-- * 🖥️  Portfolio: **Under development** -->
 
 ## My GitHub Stats
