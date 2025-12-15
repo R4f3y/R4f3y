@@ -12,11 +12,6 @@
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-silk-iota-46.vercel.app/api?username=R4f3y&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=86400)
-
-
-## My GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats-silk-iota-46.vercel.app/api?username=R4f3y&show_icons=true&theme=radical&count_private=true&cache_seconds=86400)
 
 
