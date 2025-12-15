@@ -12,7 +12,8 @@
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R4f3y&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-silk-iota-46.vercel.app/api?username=R4f3y&show_icons=true&theme=radical&count_private=true&cache_seconds=86400)
+
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R4f3y&layout=compact&theme=radical) -->
 
