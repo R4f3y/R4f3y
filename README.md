@@ -3,7 +3,7 @@
 ### About Me
 <ul>
   <li><img src="https://twemoji.maxcdn.com/v/latest/svg/1f30d.svg" width="18" height="18" alt=""> &nbsp;Based in Oslo, Norway</li>
-  <li><img src="https://twemoji.maxcdn.com/v/latest/svg/1f4bc.svg" width="18" height="18" alt=""> &nbsp;<b>Fullstack Developer</b> at <b>Oslo University Hospital</b></li>
+  <li><img src="https://twemoji.maxcdn.com/v/latest/svg/1f4bc.svg" width="18" height="18" alt=""> &nbsp;<b>Fullstack Developer</b> at <b>Institute for Cancer Genetics and Informatics (ICGI)</b></li>
   <li><img src="https://twemoji.maxcdn.com/v/latest/svg/1f393.svg" width="18" height="18" alt=""> &nbsp;Bachelor of Science in Data Engineering, Oslo Metropolitan University, 2025</li>
   <li><img src="https://twemoji.maxcdn.com/v/latest/svg/1f4c8.svg" width="18" height="18" alt=""> &nbsp;Passionate about learning and growth — Coding since <b>2020</b></li>
   <li><img src="https://twemoji.maxcdn.com/v/latest/svg/1f4e7.svg" width="18" height="18" alt=""> &nbsp;Reach me at: afzalrafey@gmail.com</li>
