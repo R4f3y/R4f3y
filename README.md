@@ -10,8 +10,6 @@
 - 🎓 B.Sc. in Data Engineering — Oslo Metropolitan University, 2025.
 - 🌱 Coding since 2020, passionate about technology, problem-solving and building applications.
 
-[afzalrafey@gmail.com](mailto:afzalrafey@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rafey-afzal-21a618290/)
-
 ## Skills and tools
 
 <table>
@@ -81,3 +79,8 @@
     </td>
   </tr>
 </table>
+
+## Contact me
+
+- 📧 **Email:** [afzalrafey@gmail.com](mailto:afzalrafey@gmail.com)
+- 💼 **LinkedIn:** [Rafey Afzal](https://www.linkedin.com/in/rafey-afzal-21a618290/)
