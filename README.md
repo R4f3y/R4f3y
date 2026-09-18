@@ -73,7 +73,3 @@
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" width="40" height="40" alt="Photoshop" title="Photoshop" /></a>
   <a href="https://helpx.adobe.com/support/xd.html"><img src="https://skillicons.dev/icons?i=xd" width="40" height="40" alt="Adobe XD" title="Adobe XD" /></a>
 </p>
-
-## GitHub stats
-
-[![Rafey Afzal's GitHub stats](https://github-stats-extended.vercel.app/api?username=R4f3y&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/R4f3y)
