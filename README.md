@@ -2,7 +2,7 @@
 
 **Full-stack Developer at the Institute for Cancer Genetics and Informatics (ICGI)**
 
-- 🏥 Building web applications for collaboration in healthcare.
+- 🏥 Developing and maintaining the EUnetCCC website and ICT Portal, supporting communication, knowledge sharing and collaboration across a European network of cancer centres.
 
 ## About me
 
